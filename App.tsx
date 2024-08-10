@@ -1,20 +1,26 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import { Sora_400Regular, Sora_600SemiBold } from "@expo-google-fonts/sora";
+import { useFonts } from "expo-font";
+import { StatusBar } from "expo-status-bar";
+import { SplashScreen } from "./src/screens/SplashScreen";
+import { ThemeProvider } from "styled-components/native";
+import theme from "./src/theme/index";
+import { Routes } from "./src/routes/Routes";
+import { AuthProvider } from "./src/context/Auth";
+import Toast from 'react-native-toast-message'
 
 export default function App() {
+  const [fontsLoaded] = useFonts({
+    Sora_400Regular,
+    Sora_600SemiBold,
+  });
+
   return (
-    <View style={styles.container}>
-      <Text>Open up App.tsx to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
+    <ThemeProvider theme={theme}>
+      <AuthProvider>
+        <StatusBar style="light" />
+        {fontsLoaded ? <Routes /> : <SplashScreen />}
+      </AuthProvider>
+      <Toast />
+    </ThemeProvider>
   );
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});

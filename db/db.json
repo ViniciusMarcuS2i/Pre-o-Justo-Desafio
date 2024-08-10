@@ -1,0 +1,152 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "nome": "Notebook Gamer Dell G15",
+      "descricao": "AAA",
+      "preco": "24.00",
+      "quantidade": 31,
+      "ImgUrl": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/g-series/g15-5530/media-gallery/gray/non-touch/coral/notebook-laptop-g15-5530-gray-gallery-1-v2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=554&qlt=100,1&resMode=sharp2&size=554,402&chrss=full",
+      "categoria": "",
+      "data": ""
+    },
+    {
+      "id": "2",
+      "nome": "Alienware m16 R2",
+      "descricao": "AAA",
+      "preco": "26.77",
+      "quantidade": 32,
+      "ImgUrl": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/alienware-notebooks/alienware-m16-r2-intel/media-gallery/laptop-aw-m16r2-nt-bk-gallery-3.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=510&qlt=100,1&resMode=sharp2&size=510,402&chrss=full",
+      "categoria": "",
+      "data": ""
+    },
+    {
+      "id": "3",
+      "nome": "Gibabyte Aero 16",
+      "descricao": "AAA",
+      "preco": "14.98",
+      "quantidade": 54,
+      "ImgUrl": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/502724/Notebook-Gamer-Gigabyte-Aero-16-Intel-Core-I7-12700h-16GB-RAM-DDR5-SSD-1TB-Geforce-RTX-3070-Win-11-Pro-Prata-Xe5-73br934hp_1697735314_gg.jpg",
+      "categoria": "",
+      "data": ""
+    },
+    {
+      "id": "4",
+      "nome": "Gigabyte Aorus 5 SE4",
+      "descricao": "AAA",
+      "preco": "23.98",
+      "quantidade": 145,
+      "ImgUrl": "https://images.kabum.com.br/produtos/fotos/399105/notebook-gamer-gigabyte-aorus-5-se4-intel-core-i7-12700h-8gb-ram-rtx-3070-1tb-ssd-15-6-windows-11-home-cinza-aorus-5-se4-73br213sh_1674848893_gg.jpg",
+      "categoria": "",
+      "data": ""
+    },
+    {
+      "id": "5",
+      "nome": "Gigabyte G5 MF",
+      "descricao": "AAA",
+      "preco": "56.78",
+      "quantidade": 123,
+      "ImgUrl": "https://images.kabum.com.br/produtos/fotos/484397/notebook-gamer-gigabyte-g5-mf-intel-core-i5-12500h-8gb-ram-rtx-4050-512gb-ssd-15-6-win11-home-preto-g5-mf-e2br333sh_1699298850_gg.jpg",
+      "categoria": "",
+      "data": ""
+    },
+    {
+      "id": "6",
+      "nome": "ASUS TUF Gaming F15",
+      "descricao": "AAA",
+      "preco": "54.67",
+      "quantidade": 156,
+      "ImgUrl": "https://images.kabum.com.br/produtos/fotos/518061/notebook-gamer-asus-tuf-gaming-f15-fx507vu-intel-core-i7-13620h-rtx-4050-8gb-ram-ssd-512gb-15-6-led-fhd-144hz-keepos-fx507vu-lp151_1712001146_gg.jpg",
+      "categoria": "",
+      "data": ""
+    },
+    {
+      "id": "7",
+      "nome": "Acer Nitro V15",
+      "descricao": "AAA",
+      "preco": "87.89",
+      "quantidade": 231,
+      "ImgUrl": "https://images.kabum.com.br/produtos/fotos/564916/notebook-gamer-acer-nitro-v15-intel-core-i5-13420h-8gb-ram-geforce-rtx-3050-ssd-512gb-15-6-fhd-ips-144hz-windows-11-preto-anv15-51-58az_1715197002_gg.jpg",
+      "categoria": "",
+      "data": ""
+    },
+    {
+      "id": "8",
+      "nome": "Lenovo V15 G3",
+      "descricao": "AAA",
+      "preco": "76.87",
+      "quantidade": 541,
+      "ImgUrl": "https://images.kabum.com.br/produtos/fotos/576020/notebook-lenovo-v15-g3-intel-core-i5-1235u-8gb-ram-ssd-256gb-15-6-full-hd-intel-iris-xe-graphics-windows-11-pro-preto-82um0007br_1716898385_gg.jpg",
+      "categoria": "",
+      "data": ""
+    },
+    {
+      "id": "9",
+      "nome": "Lenovo IdeaPad 1i",
+      "descricao": "AAA",
+      "preco": "64.78",
+      "quantidade": 231,
+      "ImgUrl": "https://images.kabum.com.br/produtos/fotos/509699/notebook-gamer-lenovo-ideapad-1i-i7-1255u-12gb-ram-placa-de-video-intel-iris-xe-ssd-512gb-15-6-windows-11-cinza-82vy000pbr_1703015452_gg.jpg",
+      "categoria": "",
+      "data": ""
+    },
+    {
+      "id": "10",
+      "nome": "Lenovo Thinkpad T430",
+      "descricao": "AAA",
+      "preco": "12.56",
+      "quantidade": 341,
+      "ImgUrl": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/479425/Notebook-Lenovo-Thinkpad-T430-Preta-14-Intel-Core-I5-3210m-8Gb-De-Ram-SSD-240Gb-Intel-Hd-Graphics-4000-1366x768px-Windows-10-Pro_1713359887_gg.jpg",
+      "categoria": "",
+      "data": ""
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "1",
+      "nome": "Marquito God",
+      "email": "marcusononato@gmail.com",
+      "senha": "123",
+      "saldo": "50000",
+      "data": "",
+      "imgUrl": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252Fteste-tecnico-precojusto-23b5ce58-9736-481e-be78-41741d080703/ImagePicker/aa732424-a99e-4453-979f-1ee4c29b63d9.jpeg"
+    },
+    {
+      "id": "2",
+      "nome": "Ana Priscila",
+      "email": "pridele@gmail.com",
+      "senha": "12345",
+      "saldo": "50000",
+      "data": "",
+      "imgUrl": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252Fteste-tecnico-precojusto-23b5ce58-9736-481e-be78-41741d080703/ImagePicker/2219ab82-c395-40ae-9f43-46f57ddac783.jpeg"
+    },
+    {
+      "id": "3d5e",
+      "nome": "PriDeles",
+      "email": "pripri@gmail.com",
+      "senha": "00000000",
+      "imgUrl": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252Fteste-tecnico-precojusto-23b5ce58-9736-481e-be78-41741d080703/ImagePicker/fff19a04-917b-4339-8786-36e3b1eb8e7b.jpeg",
+      "data": "2024-08-10T16:30:40.401Z",
+      "saldo": ""
+    }
+  ],
+  "compras": [
+    {
+      "id": "1",
+      "userId": 1,
+      "productId": 1,
+      "quantidade": "",
+      "totalPago": "",
+      "data": ""
+    }
+  ],
+  "notificacoes": [
+    {
+      "id": "1",
+      "userId": 1,
+      "mensagem": "",
+      "data": "",
+      "previsao": ""
+    }
+  ]
+}
